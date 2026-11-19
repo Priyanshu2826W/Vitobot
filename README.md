@@ -1,4 +1,4 @@
-# Health Assistant Robot 
+# Vitobot- A Health Assistant Robot 
 * An intelligent health assistant robot that provides real-time personalized guidance based on user inputs such as daily routine, food intake, and physical activity.
 * It monitors key health metrics like pulse rate and body temperature, and suggests actions such as walking or resting to help maintain a healthy lifestyle.
 * The system promotes better habits through interactive feedback, making healthcare guidance simple and accessible.
